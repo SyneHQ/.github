@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synehq/.github/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/synehq/.github/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/synehq/.github/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/synehq/synehq/output/snake.svg" alt="Snake animation" />
 </picture>
 
 **SyneHQ** is an AI-powered analytics platform dedicated to making data analysis fast, simple, and accessible for everyone. Our mission is to empower teams to extract actionable insights from their data—no matter the source or size—without bottlenecks or technical barriers.
